@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireBase Authantication</string>
+    <string name="facebook_app_id">287788259310965</string>
+    <string name="fb_login_protocol_scheme">fb287788259310965</string>
+
+    <!--    <string name="web_client_id">87097936699-breo716j683g08rtvdnmcqi2tviusgm6.apps.googleusercontent.com</string>-->
+    <string name="web_client_id">191838850891-996qp3kiit4sqsk4sngekaqlbpiqoof4.apps.googleusercontent.com</string>
+    <!--    <string name="web_client_id">191838850891-kv6nid7f849le2lkdc29jp1u86jcf3gq.apps.googleusercontent.com</string>-->
+</resources>
